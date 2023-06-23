@@ -6,6 +6,7 @@ Applications in Python"
 Modified by Eitel Lauria  to ack Colab
 '''
 import os
+import sys
 
 import matplotlib as mpl
 
