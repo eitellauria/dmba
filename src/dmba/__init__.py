@@ -3,6 +3,7 @@ Utility functions for "Data Mining for Business Analytics: Concepts, Techniques,
 Applications in Python"
 
 (c) 2019-2023 Galit Shmueli, Peter C. Bruce, Peter Gedeck
+Modified by Eitel Lauria  to ack Colab
 '''
 import os
 
